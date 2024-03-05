@@ -2,9 +2,11 @@
 <h3 align="center">Android Developer and Competitive Programmer.</h3>
 
 <img align=“right” alt=“coding” width=“400” hight="750" src=“https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif” />
+![image](https://github.com/Yash-2728/Yash-2728/assets/114726890/3c11f670-8f9d-4b52-9fe1-561d69799ac8)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-2728" alt="yash-2728" /></a> </p>
+
+
 
 - 🔭 I’m currently working on **Java and Kotlin**
 
@@ -12,9 +14,9 @@
 
 - 📫 Feel free to contact me at **yashv2276@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gzlTbJNQkU0gUvn9qfdf3M3xWHK_mo_D/view?usp=drivesdk](https://drive.google.com/file/d/1gzlTbJNQkU0gUvn9qfdf3M3xWHK_mo_D/view?usp=drivesdk)
 
-- ⚡ Fun fact **Hard work beats talent when talent doesn't work hard.**
+
+- ⚡ Fun fact: **Hard work beats talent when talent doesn't work hard.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
