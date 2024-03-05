@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yash ,</h1>
 <h3 align="center">Android Developer and Competitive Programmer.</h3>
 
-<img align=“right” alt=“coding” width=“400” hight="750" src=“https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif” />
+<img align=“right” alt=“coding” width=“400” hight="750" src=“https://github.com/Yash-2728/Yash-2728/assets/114726890/3c11f670-8f9d-4b52-9fe1-561d69799ac8” />
 ![image](https://github.com/Yash-2728/Yash-2728/assets/114726890/3c11f670-8f9d-4b52-9fe1-561d69799ac8)
 
+<IMG SRC="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 
 
