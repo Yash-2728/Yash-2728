@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img width="500" hight="5" src="https://gifsec.com/wp-content/uploads/2022/09/hello-gif-19.gif">
+  <!-- <img width="500" hight="5" src="https://gifsec.com/wp-content/uploads/2022/09/hello-gif-19.gif"> -->
  
 </h1>
 <h2 align="center">
-   Hi 👋, I'm Yash 
+   Hey There, I'm Yash 
 </h2>
 <h3 align="center">Full Stack Developer</h3>
 
@@ -13,10 +13,7 @@
 
 
 
-- 🔭 I’m currently working on **Java and Kotlin**
-
-- 💬 Ask me anything about **Android development**
-
+- 🔭 I’m currently working on JavaScript and Java.
 - 📫 Feel free to contact me at **yashv2276@gmail.com**
 
 
