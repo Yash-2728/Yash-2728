@@ -5,7 +5,7 @@
 <h2 align="center">
    Hi 👋, I'm Yash 
 </h2>
-<h3 align="center">Android Developer and Competitive Programmer.</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 
 <IMG align=“right” src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
